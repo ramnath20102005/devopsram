@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h> // Required for dynamic memory allocation (malloc)
-
+//I have added a comment in line 3
 // Define the structure for a node in the linked list
 struct Node {
     int data;          // Data part
